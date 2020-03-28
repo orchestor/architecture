@@ -1,3 +1,11 @@
+# class.py --- 
+# 
+# Filename: class.py
+# Description: 
+# Author: Lin
+# Maintainer: 
+# 
+
 class Character:
 
     def __init__(self, name, initial_health):
@@ -42,3 +50,6 @@ example()
 # Character() is a construction function 
 
 
+
+# 
+# class.py ends here
